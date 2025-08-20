@@ -1,4 +1,4 @@
-# 📦 Instruções para Envio do Projeto
+
 
 ## 🎯 Projeto: Text-to-Speech Laravel Application
 
